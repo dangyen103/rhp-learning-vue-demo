@@ -1,0 +1,15 @@
+ol li button{
+	cursor: pointer;
+	font-weight: bold;
+	color: red;
+	background: none;
+	border: 0;
+	padding: 0;
+	margin-left: 10px;
+	float: right;
+}
+
+ol li:hover{
+	cursor: pointer;
+	background-color: #EDEDED;
+}
